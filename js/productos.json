@@ -1,0 +1,242 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "DREAMUS Stray Kids - Maxident Standard Edition CD+ Benefit (T-Crush ver.)",
+        "imagen": "./img/abrigos/01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 528.37
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Big Hit Ent. TXT - Capítulo del caos: Álbumes de lucha o escapar y tarjetas de fotos adicionales (lucha y escapar ver. JUEGO)",
+        "imagen": "./img/abrigos/02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1538.13
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Dreamus [WEVERSE ALBUM] NewJeans - 1st EP 'New Jeans'",
+        "imagen": "./img/abrigos/03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 368.82
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Kakao M ENHYPEN - Dimensiones: álbum DILEMMA + beneficio de pedido anticipado + póster plegado + juego de tarjetas fotográficas adicionales (ODYSSEUS+SCYLLA+CHARYBDIS ver. JUEGO:",
+        "imagen": "./img/abrigos/04.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1489
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Juego de álbum de antología Proof de BTS (edición estándar + compacta), contenido+póster+1 póster plegable en paquete+seguimiento sellado",
+        "imagen": "./img/abrigos/05.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1667
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "SEVENTEEN 4TH ALBUM 'Face the Sun'(韓国盤)",
+        "imagen": "./img/abrigos/06.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 930
+    },
+    {
+        "id": "abrigo-07",
+        "titulo": "Stray Kids Album 5 Stars ( Version Random) Version Target",
+        "imagen": "./img/abrigos/07.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 799
+    },
+    {
+        "id": "abrigo-08",
+        "titulo": "BLACKPINK LISA LALISA First Single Album [ BLACK + GOLD ] 2 Ver SET. 2ea CD+2ea Photo Book(each 88p)+2ea Lyrics Paper+2ea Photo Card+2ea Polaroid Card+etc+2ea Pre-Order Item",
+        "imagen": "./img/abrigos/08.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1588
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "ENHYPEN Lightstick ",
+        "imagen": "./img/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1181
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Seventeen Lightstick Oficial Ver2",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1332
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "NCT Lightstick Oficial",
+        "imagen": "./img/camisetas/03.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 429
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Blackpink Lightstick V2",
+        "imagen": "./img/camisetas/04.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 798
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "TWICE - OFFICIAL LIGHT STICK [CANDYBONG INFINITY]",
+        "imagen": "./img/camisetas/05.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1850
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "BTS Official Lightstick Army Bomb Ver 4",
+        "imagen": "./img/camisetas/06.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 818
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Stray Kids Lightstick Official",
+        "imagen": "./img/camisetas/07.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1160
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "New Jeans Official Light Stick Original",
+        "imagen": "./img/camisetas/08.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 2069
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "j-hope (BTS) Jack In The Box (Weverse Albums)",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 164.15
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Agust D (BTS) 'D-DAY' (Set) + 'D-DAY' (Weverse Albums ver.) Set",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 766.36
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "[BEOMGYU] Story Book",
+        "imagen": "./img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 281.49
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Official Light Stick Cover",
+        "imagen": "./img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "SEVENTEEN IN THE SOOP 2 MAKING PHOTOBOOK",
+        "imagen": "./img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 390.92
+    },
+    {
+        "id": "pantalon-06",
+        "titulo": "Windbreaker",
+        "imagen": "./img/pantalones/06.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1704.77
+    },
+    {
+        "id": "pantalon-07",
+        "titulo": "CHARM SET",
+        "imagen": "./img/pantalones/07.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 297.15
+    },
+    {
+        "id": "pantalon-08",
+        "titulo": "Light Stick Parts (HEART & STAR)",
+        "imagen": "./img/pantalones/08.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 109.43
+    }
+]
